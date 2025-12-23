@@ -170,6 +170,21 @@ Contributions welcome! Areas for help:
 - **Denomination filtering**: Compare theological traditions
 - **Historical archive**: Preserve sermon content over time
 
+## Documentation
+
+### Core Documentation
+- **[README.md](README.md)** - This file: project overview, vision, and quick start
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical architecture review with n8n + Supabase stack evaluation
+- **[CODE_REVIEW.md](CODE_REVIEW.md)** - Detailed code review of existing implementation with refactoring recommendations
+- **[USER_REQUIREMENTS.md](USER_REQUIREMENTS.md)** - User stories with acceptance criteria, success metrics, and vision validation
+
+### Quick Links
+- **Get Started**: See "Getting Started" section above
+- **Understand the Vision**: See "Vision" section and [USER_REQUIREMENTS.md](USER_REQUIREMENTS.md)
+- **Review Architecture**: See [ARCHITECTURE.md](ARCHITECTURE.md) for n8n + Python + Supabase stack
+- **Development Roadmap**: See "Roadmap" section above
+- **Code Quality**: See [CODE_REVIEW.md](CODE_REVIEW.md) for improvements
+
 ## License
 
 To be determined (suggest MIT or Apache 2.0 for open-source collaboration)
