@@ -177,6 +177,7 @@ Contributions welcome! Areas for help:
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical architecture review with n8n + Supabase stack evaluation
 - **[CODE_REVIEW.md](CODE_REVIEW.md)** - Detailed code review of existing implementation with refactoring recommendations
 - **[USER_REQUIREMENTS.md](USER_REQUIREMENTS.md)** - User stories with acceptance criteria, success metrics, and vision validation
+- **[GIT_STRATEGY.md](GIT_STRATEGY.md)** - Git branching strategy, versioning (SemVer), and workflow guidelines
 
 ### Quick Links
 - **Get Started**: See "Getting Started" section above
